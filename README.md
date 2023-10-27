@@ -4,12 +4,13 @@
 - Tenho 39 anos, sou casada, tenho 2 filhos, moro em Massassuchets/EUA e com muita vontade de aprender coisas novas.
 
 ## Meus Certificados
-![databases-and-sql-for-data-science (1)](https://github.com/livea-723/livea-723/assets/145352204/bf514ab4-b5b4-4ade-93ea-305d80ec18f6)
-![data-visualization-with-python](https://github.com/livea-723/livea-723/assets/145352204/ef4ad2c3-3510-413d-ba4a-ebf992cd178e)
-![Python_Project_for_Data_Science](https://github.com/livea-723/livea-723/assets/145352204/5a43a914-5383-41a0-9b8e-3b6131164bf9)
-![Python_for_Data_Sci_and_AI_Foundational](https://github.com/livea-723/livea-723/assets/145352204/fd7e9f63-9a4b-4835-9298-fd57857c79ca)
-![Data_Science_Methodology_Foundational](https://github.com/livea-723/livea-723/assets/145352204/03f738d5-ff37-4e59-8d20-61898847fbb2)
-![tools for data science](https://github.com/livea-723/livea-723/assets/145352204/50de3e9c-9a0a-41b9-bd4d-8cbba4e7cde7)
+<div style='display: inline_block'>
+<img alt="databases-and-sql-for-data-science" heigth="150" width="150" src="https://github.com/livea-723/livea-723/assets/145352204/bf514ab4-b5b4-4ade-93ea-305d80ec18f6"/>
+<img alt="data-visualization-with-python" heigth="150" width="150" src="https://github.com/livea-723/livea-723/assets/145352204/ef4ad2c3-3510-413d-ba4a-ebf992cd178e"/>
+<img alt="Python_Project_for_Data_Science" heigth="150" width="150" src="https://github.com/livea-723/livea-723/assets/145352204/5a43a914-5383-41a0-9b8e-3b6131164bf9"/>
+<img alt="Python_for_Data_Sci_and_AI_Foundational" heigth="150" width="150" src="https://github.com/livea-723/livea-723/assets/145352204/fd7e9f63-9a4b-4835-9298-fd57857c79ca"/>
+<img alt="Data_Science_Methodology_Foundational" heigth="150" width="150" src="https://github.com/livea-723/livea-723/assets/145352204/03f738d5-ff37-4e59-8d20-61898847fbb2"/>
+<img alt="tools for data science" heigth="150" width="150" src="https://github.com/livea-723/livea-723/assets/145352204/50de3e9c-9a0a-41b9-bd4d-8cbba4e7cde7"/>
 
 ## Skills
 <div style='display: inline_block'>
@@ -20,8 +21,7 @@
 
 
 ## Minhas Redes Sociais
-<img src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'linkedin' height='30'>
-www.linkedin.com/in/livea-paiva-606084298
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/livea-paiva-606084298)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=livea-723&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livea-723&layout=compact&theme=radical)
