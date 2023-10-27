@@ -1,7 +1,11 @@
-- Oi Eu sou @livea-723
-- Eu estou interessada em novas oportunidades para expandir meus conhecimentos
-- Eu finalizei o curso de Data Science da IBM, e estou finalizando um curso de SQL for Data Science pela University of California, Davis.
-- Tenho 39 anos, sou casada, tenho 2 filhos, moro em Massassuchets/EUA e com muita vontade de aprender coisas novas.
+🎯Eu trabalho há mais de 18 anos com uma empresa de informação creditícia de dados.
+Nesta empresa, eu sempre busquei criar tabelas, planilhas e armazenar meus dados e as informações dos meus clientes da melhor forma possível, dentro daquilo que eu conhecia, sempre tentando melhorar meu dia-a-dia, sempre tentando responder as perguntas de acordo com as informações, com os dados que eu armazenava, sempre tentando criar coisas novas a partir daquelas informações. 
+
+📊 Eu não conhecia Data Science e todo esse universo da tecnologia da informação que estou conhecendo hoje. Eu descobri então, que o que eu fazia era Data Science! 
+E eu descobri como sou apaixonada por isso, por armazenar, criar dados, estudar e analisar os dados e criar soluções eficazes a partir desses dados. 
+
+📚 E foi com base nisso, que resolvi estudar, fazer cursos sobre Data Science, Python, SQL. 
+Confesso que tenho um longo caminho a percorrer e me aprofundar nesse universo da ciência de dados que é gigante, mas não é maior do que minha vontade de aprender! O Importante é começar, e esse passo, eu ja dei!🧗🏻‍♀️
 
 ## Meus Certificados
 <div style='display: inline_block'><br/>
