@@ -1,3 +1,5 @@
+
+![IMG_4491](https://github.com/livea-723/livea-723/assets/145352204/1ec81d29-d069-4dd8-9fae-5e9f3e518a41)
 🎯Eu trabalho há mais de 18 anos com uma empresa de informação creditícia de dados.
 Nesta empresa, eu sempre busquei criar tabelas, planilhas e armazenar meus dados e as informações dos meus clientes da melhor forma possível, dentro daquilo que eu conhecia, sempre tentando melhorar meu dia-a-dia, sempre tentando responder as perguntas de acordo com as informações, com os dados que eu armazenava, sempre tentando criar coisas novas a partir daquelas informações. 
 
